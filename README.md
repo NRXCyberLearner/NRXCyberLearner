@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Raj</h1>
+<h3 align="center">Cyber Learner | Tech Explorer | Future Developer 🚀</h3>
 
-<!--
-**NRXCyberLearner/NRXCyberLearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 💻 Learning ethical hacking & scripting
+- 🔥 Building cool terminal tools
+- 🎯 Goal: Become a pro developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Tech Stack
+![Bash](https://img.shields.io/badge/Shell-Bash-green)
+![Git](https://img.shields.io/badge/Tool-Git-orange)
+![Linux](https://img.shields.io/badge/OS-Linux-blue)
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=NRXCyberLearner&show_icons=true&theme=radical)
+
+---
+
+### 🔗 Connect With Me
+- 🌐 GitHub: https://github.com/NRXCyberLearner
